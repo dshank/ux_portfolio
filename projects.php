@@ -4,6 +4,7 @@
 <title>Portfolio</title>
 
 <head>
+    <?php $nav = 'projects'?>
     <?php include('includes/head.php'); ?>
 </head>
 

@@ -3,6 +3,7 @@
 <title>Contact Me</title>
 
 <head>
+    <?php $nav = 'contact'?>
     <?php include('includes/head.php'); ?>
 </head>
 
