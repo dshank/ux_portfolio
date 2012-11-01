@@ -1,5 +1,10 @@
 <!-- Begin Header -->
 <div id="header">
-<h1 id="logo"><a href="index.php"><img src="images/logo.png" alt="Dan Shank" /></a></h1>
+
+		<a href="index.php"><img id="logo" src="images/logo.png"></a>
+
+		<img id="picture" src="images/face.jpg" alt="Me in montana"/>
+
+	<div class="clear"></div>
 </div>
 <!-- End Header -->
