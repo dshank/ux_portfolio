@@ -157,8 +157,13 @@ body {
 
 	.project_row .arrow {
         top:5em;
-        margin-left:-45px;
-		}
+        /*margin-left:-45px;*/
+    }
+
+    .project_row .arrow img {
+        width: 75%;
+    }
+
 
 	 .project_row .thumb{
 
@@ -168,7 +173,8 @@ body {
 		width: 275px;
 		border: 1px solid #A0A0A0;
     }
-	
+
+
 	.project_row .description {
         margin-top:10px;
 	}

@@ -6,6 +6,17 @@
 <head>
     <?php $nav = 'projects'?>
     <?php include('includes/head.php'); ?>
+    <script>
+        $(document).ready(function(){
+            $('.toggle_show').click(function() {
+              $(this).parents('.project_row').find('.more_info').slideToggle('slow',function() {
+                  $(this).parents('.project_row').find('div.arrow.up').fadeToggle();
+                  $(this).parents('.project_row').find('div.arrow.down').fadeToggle();
+                });
+            });
+        });
+    </script>
+
 </head>
 
 <body onload="menuSlider.init('nav','slide')">
@@ -26,29 +37,50 @@
                 </div>
 
                 <div class="grid_7 description">
-                    <p>A class project whereby the main goal of which was to redesign an existing site using User Centered Research methods and principles</p>
-                    <p>Project involved the following deliverables:</p>
-                    <ul>
-                        <li>Personas</li>
-                        <li>Card Sort</li>
-                        <li>Information Architecture</li>
-                        <li>Wireframe</li>
-                        <li>Clickable Prototype</li>
-                        <li>Usability Test Scenarios</li>
-                        <li>Deployment Version</li>
-                    </ul>
+                    <p>Class Project to redesign an existing site using User Centered principles.  Site chosen for our group was the Washington Yacht Club</p>
+                    <br><p><b>Goals: </b>Improve Usability and Visual Design</p>
+                    <p><b>Role: </b>Team Organizer, Visual Designer, Programmer</p>
+                    <p><b>Technologies Used: </b>SimpleCardSort, Axure, Photoshop, HTML, CSS, Google Sites</p>
                 </div>
 
                 <div class="grid_1">
-                    <div class="fadehover arrow">
-                        <a>
-                            <img src="images/arrow.png" alt="" class="a">
-                            <img src="images/arrow_hover.png" alt="" class="b">
+                    <div class="fadehover arrow up">
+                        <a class='toggle_show'>
+                            <img src="images/arrow_down.png" alt="" class="a">
+                            <img src="images/arrow_down_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
 
                 <div class="clear"></div>
+
+                <div style="display:none" class="more_info">
+                    <br>
+                    <div class="grid_4">more pics</div>
+                    <div class="grid_7">
+                        <p>Project involved the following deliverables:</p>
+                        <ul>
+                            <li>Personas</li>
+                            <li>Card Sort</li>
+                            <li>Information Architecture</li>
+                            <li>Wireframe</li>
+                            <li>Clickable Prototype</li>
+                            <li>Usability Test Scenarios</li>
+                            <li>Deployment Version</li>
+                        </ul>
+                    </div>
+                    <div class="grid_1">
+                        <div class="fadehover arrow down" style="display:none">
+                            <a class='toggle_show'>
+                                <img src="images/arrow_up.png" alt="" class="a">
+                                <img src="images/arrow_up_hover.png" alt="" class="b">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+
             </div>
 
 
@@ -71,13 +103,18 @@
 
                 <div class="grid_1">
                     <div class="fadehover arrow">
-                        <a>
+                        <a class='toggle_show'>
                             <img src="images/arrow.png" alt="" class="a">
                             <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
 
+                <div class="clear"></div>
+
+                <div style="display:none" class="grid_12 more_info">
+
+                </div>
                 <div class="clear"></div>
             </div>
 
@@ -98,7 +135,7 @@
 
                 <div class="grid_1">
                     <div class="fadehover arrow">
-                        <a>
+                        <a class="toggle_show">
                             <img src="images/arrow.png" alt="" class="a ">
                             <img src="images/arrow_hover.png" alt="" class="b ">
                         </a>
@@ -106,6 +143,11 @@
                 </div>
 
                 <div class="clear"></div>
+
+                <div style="display:none" class="grid_12 more_info">
+
+                </div>
+                <div class="clear">
             </div>
 
 
@@ -125,13 +167,18 @@
 
                 <div class="grid_1">
                     <div class="fadehover arrow">
-                        <a>
+                        <a class="toggle_show">
                             <img src="images/arrow.png" alt="" class="a">
                             <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
 
+                <div class="clear"></div>
+
+                <div style="display:none" class="grid_12 more_info">
+
+                </div>
                 <div class="clear"></div>
             </div>
 
@@ -152,13 +199,18 @@
 
                 <div class="grid_1">
                     <div class="fadehover arrow">
-                        <a>
+                        <a class="toggle_show">
                             <img src="images/arrow.png" alt="" class="a">
                             <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
 
+                <div class="clear"></div>
+
+                <div style="display:none" class="grid_12 more_info">
+
+                </div>
                 <div class="clear"></div>
             </div>
 
