@@ -19,21 +19,31 @@
         <div id="content">
 		
             <div class="project_row">
-                <div class="grid_12"><h3>Washington Yacht Club</h3></div>
 
-                <div class="grid_4">
-                    <img class='thumb' src='images/wyc.png'>
+                <div class="grid_4 center">
+                    <h3>Washington Yacht Club</h3>
+                    <img src="images/wyc_thumb.png" alt="" class="thumb">
                 </div>
 
-                <div class="grid_6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula libero. Nam sed dui et tellus pulvinar consequat et nec nulla. Etiam tempor aliquet tempor. Etiam elementum dui eget eros tempus vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut risus nisi, faucibus sed varius eget, vehicula ut diam. </p>
+                <div class="grid_7 description">
+                    <p>A class project whereby the main goal of which was to redesign an existing site using User Centered Research methods and principles</p>
+                    <p>Project involved the following deliverables:</p>
+                    <ul>
+                        <li>Personas</li>
+                        <li>Card Sort</li>
+                        <li>Information Architecture</li>
+                        <li>Wireframe</li>
+                        <li>Clickable Prototype</li>
+                        <li>Usability Test Scenarios</li>
+                        <li>Deployment Version</li>
+                    </ul>
                 </div>
 
-                <div class="grid_2">
-                    <div class="fadehover center">
-                        <a data-ftrans="slide" href='index.php'>
-                            <img src="images/arrow.png" alt="" class="a arrow">
-                            <img src="images/arrow_hover.png" alt="" class="b arrow">
+                <div class="grid_1">
+                    <div class="fadehover arrow">
+                        <a>
+                            <img src="images/arrow.png" alt="" class="a">
+                            <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
@@ -48,21 +58,22 @@
 
 		
             <div class="project_row">
-                <div class="grid_12"><h3>The Language of Hands</h3></div>
 
-                <div class="grid_4">
-                    <center><img src='images/hands_thumb.png'>
+                <div class="grid_4 center">
+                    <h3>The Language of Hands</h3>
+                    <img src='images/hands_thumb.png'>
                 </div>
 
-                <div class="grid_6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula libero. Nam sed dui et tellus pulvinar consequat et nec nulla. Etiam tempor aliquet tempor. Etiam elementum dui eget eros tempus vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut risus nisi, faucibus sed varius eget, vehicula ut diam. </p>
+                <div class="grid_7 description">
+                    <p>The purpose of this project was to explore the embedded meaning of visual language in a particular context. </p>
+                    <p>The context chosen was that of hands, specifically the ways meaning is embedded within a person's choice of rings, nails, tattoos</p>
                 </div>
 
-                <div class="grid_2">
-                    <div class="fadehover center">
-                        <a data-ftrans="slide" href='index.php'>
-                            <img src="images/arrow.png" alt="" class="a arrow">
-                            <img src="images/arrow_hover.png" alt="" class="b arrow">
+                <div class="grid_1">
+                    <div class="fadehover arrow">
+                        <a>
+                            <img src="images/arrow.png" alt="" class="a">
+                            <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
@@ -75,21 +86,21 @@
 
 
             <div class="project_row">
-                <div class="grid_12"><h3>Tool Tutor</h3></div>
 
-                <div class="grid_4">
-                    <center><img src='images/tool_thumb.png' width=150>
+                <div class="grid_4 center">
+                    <h3>Tool Tutor</h3>
+                    <img src='images/tool_thumb.png' width=150>
                 </div>
 
-                <div class="grid_6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula libero. Nam sed dui et tellus pulvinar consequat et nec nulla. Etiam tempor aliquet tempor. Etiam elementum dui eget eros tempus vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut risus nisi, faucibus sed varius eget, vehicula ut diam. </p>
+                <div class="grid_7 description">
+                    <p>This project was developed for the purpose of exploring interactions </p>
                 </div>
 
-                <div class="grid_2">
-                    <div class="fadehover center">
-                        <a data-ftrans="slide" href='index.php'>
-                            <img src="images/arrow.png" alt="" class="a arrow">
-                            <img src="images/arrow_hover.png" alt="" class="b arrow">
+                <div class="grid_1">
+                    <div class="fadehover arrow">
+                        <a>
+                            <img src="images/arrow.png" alt="" class="a ">
+                            <img src="images/arrow_hover.png" alt="" class="b ">
                         </a>
                     </div>
                 </div>
@@ -102,21 +113,21 @@
 
 
             <div class="project_row">
-                <div class="grid_12"><h3>Market Maven</h3></div>
 
-                <div class="grid_4">
+                <div class="grid_4 center">
+                    <h3>Market Maven</h3>
                     <img class='thumb' src='images/market_thumb.png'>
                 </div>
 
-                <div class="grid_6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula libero. Nam sed dui et tellus pulvinar consequat et nec nulla. Etiam tempor aliquet tempor. Etiam elementum dui eget eros tempus vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut risus nisi, faucibus sed varius eget, vehicula ut diam. </p>
+                <div class="grid_7 description">
+                    <p></p>
                 </div>
 
-                <div class="grid_2">
-                    <div class="fadehover center">
-                        <a data-ftrans="slide" href='index.php'>
-                            <img src="images/arrow.png" alt="" class="a arrow">
-                            <img src="images/arrow_hover.png" alt="" class="b arrow">
+                <div class="grid_1">
+                    <div class="fadehover arrow">
+                        <a>
+                            <img src="images/arrow.png" alt="" class="a">
+                            <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
@@ -129,21 +140,21 @@
 
 
             <div class="project_row">
-                <div class="grid_12"><h3>Wood Crafts</h3></div>
 
-                <div class="grid_4">
+                <div class="grid_4 center">
+                    <h3>Wood Crafts</h3>
                     <img class='thumb' src='images/cribbage_thumb.png'>
                 </div>
 
-                <div class="grid_6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula libero. Nam sed dui et tellus pulvinar consequat et nec nulla. Etiam tempor aliquet tempor. Etiam elementum dui eget eros tempus vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut risus nisi, faucibus sed varius eget, vehicula ut diam. </p>
+                <div class="grid_7 description">
+                    <p></p>
                 </div>
 
-                <div class="grid_2">
-                    <div class="fadehover center">
-                        <a data-ftrans="slide" href='index.php'>
-                            <img src="images/arrow.png" alt="" class="a arrow">
-                            <img src="images/arrow_hover.png" alt="" class="b arrow">
+                <div class="grid_1">
+                    <div class="fadehover arrow">
+                        <a>
+                            <img src="images/arrow.png" alt="" class="a">
+                            <img src="images/arrow_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>

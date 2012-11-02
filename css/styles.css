@@ -13,29 +13,26 @@ body {
 	
 #header {
 	margin: 15px;
-	max-height: 50px;
+    margin-left: 20px;
+    max-height:37px;
 	}
 	
 #picture {
 	float: right;
 	position: relative;
-	vertical-align: top;
 	margin-top:-120px;
-	top: 125px;
+	top: 127px;
 	right: 1%;
 /*	padding: 10px;*/
-	border: 1px solid #444444;
-	background-color:white;
+	border: 1px solid #A0A0A0;
 	z-index: 1;
-	width: 12%;
+	width: 15%;
 	min-width: 90px;
 	}
 	
 #logo {
 	float:left;
 	position:relative;
-	margin-top: 5px;
-    margin-left:20px;
 }
 
 .nav {
@@ -46,9 +43,8 @@ body {
      background-image: url('../images/nav-norm.png');
      border: 1px solid #A0A0A0;
      background-repeat:repeat-x;
-     margin-bottom:20px;
-     margin-left:-3.5%;
-     width:107%;
+     margin-left:-4%;
+     width:128.5%;
     }
  
 	.nav ul {
@@ -95,8 +91,6 @@ body {
 #content {
 	text-align: left;
 	margin-top:75px;
-    margin-left:10px;
-	/*padding:10px;*/
     padding-bottom: 20px;
 	/*border:1px solid black;*/
 	}
@@ -119,26 +113,25 @@ body {
         color:#333333;
 		padding: 8px;
 		}
-		
-	
+
 	#content p {
-		font-size: 16px;
 		line-height: 21px;
 		text-align: left;
-		padding-bottom: 20px;
+		padding-bottom: 10px;
 		}
 		
 	#content li {
 		font-size: 14px;
-		line-height: 21px;
+        line-height: 21px;
 		letter-spacing: 0px;
 		text-align: left;
+        margin-left: 30px;
 		}
-			
-	#content ul li {
-		list-style: none;
-		list-style-image: url(images/bullet.png);
-		}
+
+	/*#content ul li {*/
+		/*list-style: none;*/
+		/*list-style-image: url(images/bullet.png);*/
+		/*}*/
 		
 	#content a {
 		color: #488AC7;
@@ -160,19 +153,24 @@ body {
 
 .project_row {
 	position:relative;
-	vertical-align:middle;
 	}
 
-	.project_row img.arrow {
-		margin-top:40px;
+	.project_row .arrow {
+        top:5em;
+        margin-left:-45px;
 		}
-		
-	.project_row img.thumb {
+
+	 .project_row .thumb{
+
+     }
+
+     .project_row img.thumb {
 		width: 275px;
 		border: 1px solid #A0A0A0;
     }
 	
-	.project_row p {
+	.project_row .description {
+        margin-top:10px;
 	}
 	
 /*#resume {
@@ -186,7 +184,7 @@ div.fadehover {
     }
 
     img.a {
-        position: absolute;
+        position: relative;
         left: 0;
         top: 0;
         z-index: 10;
@@ -199,9 +197,8 @@ div.fadehover {
         }
 
 .center{
-    margin-left:auto;
-    margin-right:auto;
-    width:70%;
+    display:block;
+    text-align: -webkit-center;
     }
 
 #footer {

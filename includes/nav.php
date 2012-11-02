@@ -1,5 +1,5 @@
 <!-- Begin Navigation -->
-<div class="grid_12">
+<div class="grid_10">
     <div class="nav">
         <ul id="nav">
             <li <?php if ($nav == 'about') { print 'value="1"'; } ?>>      <a href="index.php">About</a></li>

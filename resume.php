@@ -18,7 +18,11 @@
         <!-- Begin Content -->
         <div id="content">
 
-            <div><a href="resume.pdf" target="_blank"><img width=50px style="vertical-align:middle;" src='images/pdf.png'>Click here to download PDF<a><br><br></div>
+            <div class="grid_12 center">
+                <a href="resume.pdf" target="_blank">Click here to download PDF</a>
+            </div>
+
+            <div class="clear"></div><br>
 
             <div class="grid_12">
                 <center><object data="resume.pdf" type="application/pdf" width="89%" height="1070px"></object>

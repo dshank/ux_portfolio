@@ -20,14 +20,14 @@
 .container_12 {
   margin-left: auto;
   margin-right: auto;
-  max-width: 970px;
-	min-width: 525px;
-	/*background-image: url('../images/12_col.gif');*/
-	background-color: white;
-	background-repeat: repeat-y;
-	border-left: 1px solid #A0A0A0;
-	border-right: 1px solid #A0A0A0;
-	border-bottom: 1px solid #A0A0A0;
+  max-width: 960px;
+  min-width: 525px;
+  /*background-image: url('../images/12_col.gif');*/
+  background-color: white;
+  background-repeat: repeat-y;
+  border-left: 1px solid #A0A0A0;
+  border-right: 1px solid #A0A0A0;
+  border-bottom: 1px solid #A0A0A0;
 	
 }
 
@@ -105,7 +105,7 @@
 }
 
 .container_12 .grid_7 {
-  width: 52.25%;
+  width: 56.25%;
 }
 
 .container_12 .grid_8 {
