@@ -227,7 +227,7 @@
 
 			if ($("#fancy_outer").is(":visible") && width == $("#fancy_outer").width() && height == $("#fancy_outer").height()) {
 				$("#fancy_content").fadeOut("fast", function() {
-					$("#fancy_content").empty().append($(value)).fadeIn("normal", function() {
+					$("#fancy_content").empty().append($(value)).fadeIn("fast", function() {
 						_finish();
 					});
 				});
@@ -248,10 +248,10 @@
 			};
 
 			if ($("#fancy_outer").is(":visible")) {
-				$("#fancy_content").fadeOut("normal", function() {
+				$("#fancy_content").fadeOut("fast", function() {
 					$("#fancy_content").empty();
 					$("#fancy_outer").animate(itemOpts, opts.zoomSpeedChange, opts.easingChange, function() {
-						$("#fancy_content").append($(value)).fadeIn("normal", function() {
+						$("#fancy_content").append($(value)).fadeIn("fast", function() {
 							_finish();
 						});
 					});
@@ -283,7 +283,7 @@
 				} else {
 
 					$("#fancy_content").hide().empty().append($(value)).show();
-					$("#fancy_outer").css(itemOpts).fadeIn("normal", function() {
+					$("#fancy_outer").css(itemOpts).fadeIn("fast", function() {
 						_finish();
 					});
 				}
@@ -536,7 +536,7 @@
 		zoomOpacity			:	false,
 		zoomSpeedIn			:	0,
 		zoomSpeedOut		:	0,
-		zoomSpeedChange		:	300,
+		zoomSpeedChange		:	200,
 		easingIn			:	'swing',
 		easingOut			:	'swing',
 		easingChange		:	'swing',

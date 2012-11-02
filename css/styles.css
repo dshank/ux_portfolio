@@ -48,10 +48,9 @@ body {
     }
  
 	.nav ul {
-	     z-index:10;
-		   position:absolute;
-			 list-style-type: none;
-			 z-index:100; 
+	     z-index:20;
+         position:absolute;
+         list-style-type: none;
 	}
  
 	.nav ul li {

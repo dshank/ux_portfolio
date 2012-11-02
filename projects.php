@@ -47,6 +47,7 @@
                         <a rel="group" title="Caption 2" href="images/hands_thumb.png"></a>
                         <a rel="group" title="Caption 3" href="images/tool_thumb.png"></a>
                         <a rel="group" title="Caption 4" href="images/market_thumb.png"></a>
+                        <a rel="group" title="Caption 4" href="images/cribbage_thumb.png"></a>
                     </div>
                 </div>
 
