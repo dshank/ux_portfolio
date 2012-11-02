@@ -162,6 +162,7 @@ body {
 
     .project_row .arrow img {
         width: 75%;
+        cursor: pointer;
     }
 
 

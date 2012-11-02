@@ -17,6 +17,15 @@
         });
     </script>
 
+    <link rel="stylesheet" type="text/css" href="jquery.fancybox/jquery.fancybox.css" media="screen" />
+    <script type="text/javascript" src="jquery.fancybox/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="jquery.fancybox/jquery.fancybox-1.2.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("div.fancyDemo a").fancybox();
+        });
+    </script>
+
 </head>
 
 <body onload="menuSlider.init('nav','slide')">
@@ -33,7 +42,12 @@
 
                 <div class="grid_4 center">
                     <h3>Washington Yacht Club</h3>
-                    <img src="images/wyc_thumb.png" alt="" class="thumb">
+                    <div class="fancyDemo">
+                        <a rel="group" title="Caption 1 oh so many captions" href="images/wyc_thumb.png"><img src="images/wyc_thumb.png" class="thumb"/></a>
+                        <a rel="group" title="Caption 2" href="images/hands_thumb.png"></a>
+                        <a rel="group" title="Caption 3" href="images/tool_thumb.png"></a>
+                        <a rel="group" title="Caption 4" href="images/market_thumb.png"></a>
+                    </div>
                 </div>
 
                 <div class="grid_7 description">
@@ -56,7 +70,8 @@
 
                 <div style="display:none" class="more_info">
                     <br>
-                    <div class="grid_4">more pics</div>
+                    <div class="grid_4">
+                    </div>
                     <div class="grid_7">
                         <p>Project involved the following deliverables:</p>
                         <ul>
@@ -104,8 +119,8 @@
                 <div class="grid_1">
                     <div class="fadehover arrow">
                         <a class='toggle_show'>
-                            <img src="images/arrow.png" alt="" class="a">
-                            <img src="images/arrow_hover.png" alt="" class="b">
+                            <img src="images/arrow_right.png" alt="" class="a">
+                            <img src="images/arrow_right_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
@@ -136,8 +151,8 @@
                 <div class="grid_1">
                     <div class="fadehover arrow">
                         <a class="toggle_show">
-                            <img src="images/arrow.png" alt="" class="a ">
-                            <img src="images/arrow_hover.png" alt="" class="b ">
+                            <img src="images/arrow_right.png" alt="" class="a ">
+                            <img src="images/arrow_right_hover.png" alt="" class="b ">
                         </a>
                     </div>
                 </div>
@@ -168,8 +183,8 @@
                 <div class="grid_1">
                     <div class="fadehover arrow">
                         <a class="toggle_show">
-                            <img src="images/arrow.png" alt="" class="a">
-                            <img src="images/arrow_hover.png" alt="" class="b">
+                            <img src="images/arrow_right.png" alt="" class="a">
+                            <img src="images/arrow_right_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
@@ -200,8 +215,8 @@
                 <div class="grid_1">
                     <div class="fadehover arrow">
                         <a class="toggle_show">
-                            <img src="images/arrow.png" alt="" class="a">
-                            <img src="images/arrow_hover.png" alt="" class="b">
+                            <img src="images/arrow_right.png" alt="" class="a">
+                            <img src="images/arrow_right_hover.png" alt="" class="b">
                         </a>
                     </div>
                 </div>
