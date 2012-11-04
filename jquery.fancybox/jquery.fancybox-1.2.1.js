@@ -87,7 +87,13 @@
 					var item = {};
 
 					for (var i = 0; i < subGroup.length; i++) {
-						item = {href: subGroup[i].href, title: '<span class="count">Image ' + (i + 1) + ' of ' + (subGroup.length) + '</span>' + subGroup[i].title + ' &nbsp;'};
+                        if (subGroup.length > 1) {
+                            var prefix = '<span class="count">Image ' + (i + 1) + ' of ' + (subGroup.length) + ':</span>';
+                        }else {
+                            var prefix = '';
+                        }
+
+                        item = {href: subGroup[i].href, title: prefix + subGroup[i].title + ' &nbsp;'};
 
 						if ($(subGroup[i]).children("img:first").length) {
 							item.orig = $(subGroup[i]).children("img:first");

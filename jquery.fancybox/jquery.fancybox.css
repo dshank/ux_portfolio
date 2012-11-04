@@ -283,8 +283,8 @@ div#fancy_title {
 }
 
 div#fancy_title div {
-	color: #CCC;
-	font: 13px Arial;
+	color: #DDDDDD;
+	font: 15px Arial;
 	padding: 5px;
 }
 
@@ -318,7 +318,7 @@ td#fancy_title_right {
 }
 
 td.fancy_title {
-	background: transparent url(title_bg_65.png) repeat !important;}
+	background: transparent url(title_bg_50.png) repeat !important;}
 
 #fancy_title SPAN.count {
 	font-weight: bold;

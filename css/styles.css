@@ -26,7 +26,7 @@ body {
 /*	padding: 10px;*/
 	border: 1px solid #A0A0A0;
 	z-index: 1;
-	width: 15%;
+	width: 14%;
 	min-width: 90px;
 	}
 	
@@ -34,6 +34,23 @@ body {
 	float:left;
 	position:relative;
 }
+
+ div.fadehover {
+     position: relative;
+     }
+
+     img.a {
+         position: relative;
+         left: 0;
+         top: 0;
+         z-index: 10;
+          }
+
+     img.b {
+         position: absolute;
+         left: 0;
+         top: 0;
+         }
 
 .nav {
      font-family: arial, sans-serif;
@@ -62,10 +79,10 @@ body {
 	     text-align: center;
 	     border-right:0px solid #444444;
 	     padding-top:10px;
-			 padding-bottom:10px;
+         padding-bottom:10px;
 	     padding-left:20px;
 	     padding-right:20px;
-			 display:block;
+         display:block;
 	     text-decoration:none;
 	     color:#222222;
 	}
@@ -116,7 +133,7 @@ body {
 	#content p {
 		line-height: 21px;
 		text-align: left;
-		padding-bottom: 10px;
+		padding-bottom: 20px;
 		}
 		
 	#content li {
@@ -124,7 +141,7 @@ body {
         line-height: 21px;
 		letter-spacing: 0px;
 		text-align: left;
-        margin-left: 30px;
+        margin-left: 20px;
 		}
 
 	/*#content ul li {*/
@@ -152,32 +169,29 @@ body {
 
 .project_row {
 	position:relative;
-	}
+}
+    .project_row .button {
+        float:left;
+    }
 
-	.project_row .arrow {
-        top:5em;
-        /*margin-left:-45px;*/
+    .project_row .arrow {
+        float:right;
+        left:-10px;
     }
 
     .project_row .arrow img {
-        width: 75%;
+        width: 40px;
         cursor: pointer;
     }
 
-
-	 .project_row .thumb{
-
-     }
-
-     .project_row img.thumb {
-		width: 275px;
-		border: 1px solid #A0A0A0;
+    .project_row img.thumb {
+        width: 275px;
+        border: 1px solid #A0A0A0;
     }
 
-
-	.project_row .description {
-        margin-top:10px;
-	}
+    .project_row .description {
+        margin-top:40px;
+    }
 	
 /*#resume {
 	position:relative;
@@ -185,22 +199,7 @@ body {
 	width:75px;
 }*/
 
-div.fadehover {
-    position: relative;
-    }
 
-    img.a {
-        position: relative;
-        left: 0;
-        top: 0;
-        z-index: 10;
-         }
-
-    img.b {
-        position: absolute;
-        left: 0;
-        top: 0;
-        }
 
 .center{
     display:block;
