@@ -53,13 +53,10 @@ body {
          }
 
 .nav {
-     font-family: arial, sans-serif;
      position: relative;
      height:37px;
-     font-size:16px;
      background-image: url('../images/nav-norm.png');
      border: 1px solid #A0A0A0;
-     background-repeat:repeat-x;
      margin-left:-4%;
      width:128.5%;
     }
@@ -72,12 +69,13 @@ body {
  
 	.nav ul li {
 	     float: left;
-	     position: relative;
 	}
+
+    .nav ul li.selected{
+        font-weight: bold;
+    }
  
 	.nav ul li a {
-	     text-align: center;
-	     border-right:0px solid #444444;
 	     padding-top:10px;
          padding-bottom:10px;
 	     padding-left:20px;
@@ -128,12 +126,14 @@ body {
 		font-style: normal;
         color:#333333;
 		padding: 8px;
+        float: left;
 		}
 
 	#content p {
-		line-height: 21px;
+		font-size: 14px;
+        line-height: 21px;
 		text-align: left;
-		padding-bottom: 20px;
+		padding-bottom: 10px;
 		}
 		
 	#content li {
@@ -159,7 +159,7 @@ body {
 		}
 
 .spacer {
-	margin-top:20px;
+	/*margin-top:20px;*/
 	margin-left:1%;
 	padding-bottom:20px;
 	border-top:1px solid #A0A0A0;
@@ -185,12 +185,16 @@ body {
     }
 
     .project_row img.thumb {
-        width: 275px;
+        width: 220px;
         border: 1px solid #A0A0A0;
     }
 
     .project_row .description {
         margin-top:40px;
+    }
+
+    .project_row .more_info {
+        display: none;
     }
 	
 /*#resume {
