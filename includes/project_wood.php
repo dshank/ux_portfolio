@@ -61,8 +61,8 @@
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="End Table - Made using Maple. This particular design went through many iterations before the current design" href="images/wood/end_table.jpg">
-                <img src="images/wood/end_table.jpg" class="thumb"/></a>
+            <a rel="wood" title="Coasters - Made using Walnut and Bloodwood" href="images/wood/coasters.jpg">
+                <img src="images/wood/coasters.jpg" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
