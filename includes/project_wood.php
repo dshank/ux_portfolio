@@ -27,23 +27,23 @@
         <br><br>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Wine Rack - Made using Bloodwood and Maple" href="images/wood/wine_rack.jpg">
-                <img src="images/wood/wine_rack.jpg" class="thumb"/></a>
+            <a rel="wood" title="Wine Rack - Made using Bloodwood and Maple" href="images/wood/wine_rack.png">
+                <img src="images/wood/wine_rack.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Koa Cribbage board - pegs stored in the board using magnets" href="images/wood/koa_cribbage.jpg">
-                <img src="images/wood/koa_cribbage.jpg" class="thumb"/></a>
+            <a rel="wood" title="Koa Cribbage board - pegs stored in the board using magnets" href="images/wood/koa_cribbage.png">
+                <img src="images/wood/koa_cribbage.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Maple Cribbage board - Other side of the previous board" href="images/wood/maple_cribbage.jpg">
-                <img src="images/wood/maple_cribbage.jpg" class="thumb"/></a>
+            <a rel="wood" title="Maple Cribbage board - Other side of the previous board" href="images/wood/maple_cribbage.png">
+                <img src="images/wood/maple_cribbage.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Wall Clock - Made using Walnut and Maple" href="images/wood/walnut_clock.jpg">
-                <img src="images/wood/walnut_clock.jpg" class="thumb"/></a>
+            <a rel="wood" title="Wall Clock - Made using Walnut and Maple" href="images/wood/walnut_clock.png">
+                <img src="images/wood/walnut_clock.png" class="thumb"/></a>
         </div>
 
 
@@ -51,23 +51,23 @@
 
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Bookends - Made using Mahogany and Ebony with embedded coins" href="images/wood/mahogany_bookends.jpg">
-                <img src="images/wood/mahogany_bookends.jpg" class="thumb"/></a>
+            <a rel="wood" title="Bookends - Made using Mahogany and Ebony with embedded coins" href="images/wood/mahogany_bookends.png">
+                <img src="images/wood/mahogany_bookends.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Picture Frames - Made using Koa" href="images/wood/koa_frames.jpg">
-                <img src="images/wood/koa_frames.jpg" class="thumb"/></a>
+            <a rel="wood" title="Picture Frames - Made using Koa" href="images/wood/koa_frames.png">
+                <img src="images/wood/koa_frames.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Coasters - Made using Walnut and Bloodwood" href="images/wood/coasters.jpg">
-                <img src="images/wood/coasters.jpg" class="thumb"/></a>
+            <a rel="wood" title="Coasters - Made using Walnut and Bloodwood" href="images/wood/coasters.png">
+                <img src="images/wood/coasters.png" class="thumb"/></a>
         </div>
 
         <div class="grid_3 fancyDemo">
-            <a rel="wood" title="Cribbage Board - Made using Mango and Bloodwood" href="images/wood/mango_cribbage.jpg">
-                <img src="images/wood/mango_cribbage.jpg" class="thumb"/></a> <br><br>
+            <a rel="wood" title="Cribbage Board - Made using Mango and Bloodwood" href="images/wood/mango_cribbage.png">
+                <img src="images/wood/mango_cribbage.png" class="thumb"/></a> <br><br>
         </div>
 
     </div>
