@@ -17,7 +17,7 @@
         <p><b>Personal Role: </b>Project Manager, Visual Designer, Programmer</p>
         <p><b>Technologies Used: </b>SimpleCardSort, Axure, Photoshop, HTML, CSS, Google Sites</p>
         <p><b>Challenges: </b>Working within the context of Google Sites to reduce the technical burden of continuing use. Intelligently reducing the amount of published content.</p>
-      </div>
+    </div>
 
     <div class="clear"></div>
 
@@ -66,7 +66,10 @@
     <div class="clear"></div>
 
     <div class="center" style="height:22px; cursor:pointer;">
-        <a class='toggle_show'><img src="images/tab.png" width=175></a>
+        <a class='toggle_show'>
+            <img src="images/tab_more.png" class="tab more">
+            <img src="images/tab_less.png" class="tab less">
+        </a>
     </div>
 
 </div>

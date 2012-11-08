@@ -7,16 +7,6 @@
 <head>
     <?php $nav = 'projects'?>
     <?php include('includes/head.php'); ?>
-    <script>
-        $(document).ready(function(){
-            $('.toggle_show').click(function() {
-              $(this).parents('.project_row').find('.more_info').slideToggle('slow',function() {
-                  $(this).parents('.project_row').find('div.arrow.up').toggle();
-                  $(this).parents('.project_row').find('div.arrow.down').toggle();
-                });
-            });
-        });
-    </script>
 
     <link rel="stylesheet" type="text/css" href="jquery.fancybox/jquery.fancybox.css" media="screen" />
     <script type="text/javascript" src="jquery.fancybox/jquery.easing.1.3.js"></script>
@@ -60,6 +50,8 @@
 
 
             <?php include('includes/project_wood.php'); ?>
+
+            <div class="spacer"></div>
 
 
 		</div>

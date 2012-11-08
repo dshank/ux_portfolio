@@ -21,15 +21,26 @@
         <br><br>
         <div class="grid_4">
             <p><b><a href="http://students.washington.edu/dshank/Project_V1/Male.html" target="_blank">Version 1</b></a></p>
-            <p>Very minimal interface. Used simple html buttons for controlling configurations.  Limited permutations.</p>
+            <ul>
+                <li>Very minimal interface</li>
+                <li>Used simple html buttons for controlling configurations</li>
+                <li>Limited permutations</li>
+            </ul>
         </div>
         <div class="grid_4">
             <p><b><a href="http://students.washington.edu/dshank/Project_V2/Male.html" target="_blank">Version 2</b></a></p>
-            <p>Added interface elements including title and footer. Also added additional permutations</p>
+            <ul>
+                <li>Added interface elements including title and footer</li>
+                <li>Added additional permutations</li>
+            </ul>
         </div>
         <div class="grid_4">
             <p><b><a href="http://students.washington.edu/dshank/Project_V3/Male.html" target="_blank">Final Version</b></a></p>
-            <p>Changed interface to use a combination of text and images.  Added additional permutations. Added 'random' and 'reset' features to improve interactivity. </p>
+            <ul>
+                <li>Changed interface to use a combination of text and images</li>
+                <li>Added additional permutations</li>
+                <li>Added 'random' and 'reset' features to improve interactivity</li>
+            </ul>
         </div>
 
     </div>
@@ -37,7 +48,10 @@
     <div class="clear"></div>
 
     <div class="center" style="height:22px; cursor:pointer;">
-        <a class='toggle_show'><img src="images/tab.png" width=175></a>
+        <a class='toggle_show'>
+            <img src="images/tab_more.png" class="tab more">
+            <img src="images/tab_less.png" class="tab less">
+        </a>
     </div>
 
 </div>

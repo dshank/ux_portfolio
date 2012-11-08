@@ -35,23 +35,6 @@ body {
 	position:relative;
 }
 
- div.fadehover {
-     position: relative;
-     }
-
-     img.a {
-         position: relative;
-         left: 0;
-         top: 0;
-         z-index: 10;
-          }
-
-     img.b {
-         position: absolute;
-         left: 0;
-         top: 0;
-         }
-
 .nav {
      position: relative;
      height:37px;
@@ -184,17 +167,26 @@ body {
         cursor: pointer;
     }
 
-    .project_row img.thumb {
+    .project_row .grid_3 img.thumb {
         width: 220px;
         border: 1px solid #A0A0A0;
+    }
+
+    .project_row .grid_4 img.thumb {
+         width: 300px;
+         border: 1px solid #A0A0A0;
     }
 
     .project_row .description {
         margin-top:40px;
     }
 
-    .project_row .more_info {
+    .project_row .more_info, .tab.less {
         display: none;
+    }
+
+    .project_row .tab{
+        width: 175px;
     }
 	
 /*#resume {
