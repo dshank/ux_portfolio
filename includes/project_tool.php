@@ -2,7 +2,11 @@
 
     <div class="grid_4 center">
         <h3>Tool Tutor</h3>
-        <img src='images/tool_thumb.png' width=180>
+        <div class="fancyDemo">
+            <a rel="tool"href="images/tool/tool_scan.png">
+                <img src='images/tool_thumb.png' width=180>
+            </a>
+        </div>
     </div>
 
     <div class="grid_8 description">
@@ -24,15 +28,26 @@
 
         <br><br>
         <div class="grid_4 fancyDemo center">
-            <a rel="tool" title="Rough User Flow" href="images/tool/tool_user_flow.png"><img src="images/tool/tool_user_flow.png" style='border: 1px solid #A0A0A0;' width=200/></a>
+            <img src="images/tool/tool_user_flow.png" style='border: 1px solid #A0A0A0;' width=200/>
         </div>
 
         <div class="grid_4 fancyDemo">
-            <a rel="tool" title="Wireframe" href="images/tool/tool_wireframe.jpg"><img src="images/tool/tool_wireframe_thumb.jpg" class="thumb"/></a>
+            <a rel="tool" title="Wireframe" href="images/tool/tool_wireframe.jpg">
+                <img src="images/tool/tool_wireframe_thumb.jpg" class="thumb"/>
+            </a>
         </div>
 
         <div class="grid_4 fancyDemo">
-            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_prototype.png"><img src="images/tool/tool_prototype.png" width=300/></a>
+            <a rel="tool" title="Clickable Prototype - Built Using OmniGraffle" href="images/tool/tool_scan.png">
+                <img src="images/tool/tool_prototype.png" width=300/>
+            </a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_list.png"></a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_saw.png"></a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_component.png"></a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_saw_blade.png"></a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_safety.png"></a>
+            <a rel="tool" title="Clickable Prototype - Built Using Axure" href="images/tool/tool_how_to.png"></a>
+
         </div>
 
         <div class="clear"></div><br/>
