@@ -12,8 +12,8 @@
     $(document).ready(function(){
         $('.toggle_show').click(function() {
           $(this).parents('.project_row').find('.more_info').slideToggle('slow',function() {
-              $(this).parents('.project_row').find('img.tab.more').toggle();
-              $(this).parents('.project_row').find('img.tab.less').toggle();
+              $(this).parents('.project_row').find('.tab .more').toggle();
+              $(this).parents('.project_row').find('.tab .less').toggle();
             });
         });
     });

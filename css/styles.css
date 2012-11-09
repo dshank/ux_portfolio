@@ -173,19 +173,24 @@ body {
     }
 
     .project_row .grid_4 img.thumb {
-         width: 300px;
-         border: 1px solid #A0A0A0;
+        width: 300px;
+        border: 1px solid #A0A0A0;
     }
 
     .project_row .description {
         margin-top:40px;
     }
 
-    .project_row .more_info, .tab.less {
-        display: none;
-    }
+    .project_row .more_info, .tab .less {
+         display: none;
+     }
 
     .project_row .tab{
+        height:22px;
+        cursor:pointer;
+    }
+
+    .project_row .tab img{
         width: 175px;
     }
 	
