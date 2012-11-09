@@ -12,8 +12,8 @@
 
     <div class="container_12">
 
-    <?php include('includes/header.php'); ?>
-    <?php include('includes/nav.php'); ?>
+        <?php include('includes/header.php'); ?>
+        <?php include('includes/nav.php'); ?>
 
         <!-- Begin Content -->
         <div id="content">
@@ -25,13 +25,15 @@
             <div class="clear"></div><br>
 
             <div class="grid_12">
-                <center><object data="resume.pdf" type="application/pdf" width="89%" height="1070px"></object>
+                <center><object data="resume.pdf" type="application/pdf" width="89%" height="1070px"></object></center>
             </div>
 
         </div>
         <!-- End Content -->
 
     </div>
+
+    <?php include('includes/footer.php'); ?>
 
 </body>
 

@@ -51,13 +51,13 @@
 
             <?php include('includes/project_wood.php'); ?>
 
-            <div class="spacer"></div>
-
 
 		</div>
         <!-- End Content -->
 
     </div>
+
+    <?php include('includes/footer.php'); ?>
 
 </body>
 

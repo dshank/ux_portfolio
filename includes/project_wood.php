@@ -3,7 +3,7 @@
     <div class="grid_4 center">
         <h3>Wood Crafts</h3>
         <div class="fancyDemo">
-            <a rel="wood" title="Cribbage board - Made using Bloodwood and Ebony (these are the actual colors of the wood)" href="images/wood/ebony_cribbage.png">
+            <a rel="wood" title="Cribbage board - Made using Bloodwood and Ebony" href="images/wood/ebony_cribbage.png">
                 <img src='images/wood_thumb.png' width=300>
             </a>
         </div>
