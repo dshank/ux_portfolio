@@ -4,7 +4,7 @@
         <h3>YourLocalMarkets.org</h3>
         <div class="fancyDemo">
             <a rel="market" title="Clickable Prototype - This is the portal into the site where you find the nearest market" href="images/market/prototype_portal.png">
-                <img src='images/market/prototype_portal.png' style="border: 1px solid #A0A0A0;" width=275>
+                <img src='images/market_thumb.png' style="border: 1px solid #A0A0A0;" width=275>
             </a>
         </div>
     </div>

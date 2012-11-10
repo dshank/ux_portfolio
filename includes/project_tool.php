@@ -33,8 +33,8 @@
         </div>
 
         <div class="grid_4 fancyDemo">
-            <a rel="wire" title="Wireframe - Built using photoshop" href="images/tool/tool_wireframe_thumb.jpg">
-                <img src="images/tool/tool_wireframe_thumb.jpg" class="thumb"/>
+            <a rel="wire" title="Wireframe - Built using photoshop" href="images/tool/tool_wireframe_thumb.png">
+                <img src="images/tool/tool_wireframe_thumb.png" class="thumb"/>
             </a>
         </div>
 
