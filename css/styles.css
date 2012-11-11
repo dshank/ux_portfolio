@@ -4,6 +4,10 @@
 
 * { margin: 0; padding: 0; }
 
+html {
+    overflow-y:scroll;
+    }
+
 body {
 /*	background-color:#EEEEEE;*/
 	background-image: url('../images/background.png');
@@ -12,7 +16,7 @@ body {
 	}
 	
 #header {
-	margin: 15px;
+	margin: 25px;
     margin-left: 20px;
     max-height:37px;
 	}
@@ -26,7 +30,7 @@ body {
 /*	padding: 10px;*/
 	border: 1px solid #A0A0A0;
 	z-index: 1;
-	width: 14%;
+	width: 15%;
 	min-width: 90px;
 	}
 	
@@ -88,6 +92,7 @@ body {
 #content {
 	text-align: left;
 	margin-top:75px;
+    min-height: 500px;
 	/*border:1px solid black;*/
 	}
 	
@@ -111,7 +116,7 @@ body {
 		}
 
 	#content p {
-		font-size: 14px;
+		font-size: 15px;
         line-height: 21px;
 		text-align: left;
 		padding-bottom: 10px;
@@ -155,14 +160,8 @@ body {
         float:left;
     }
 
-    .project_row .arrow {
-        float:right;
-        left:-10px;
-    }
-
-    .project_row .arrow img {
-        width: 40px;
-        cursor: pointer;
+    .project_row p {
+        font-size:14px;
     }
 
     .project_row .grid_3 img.thumb {
@@ -201,13 +200,16 @@ body {
 
 
 .center{
-    display:block;
-    text-align: -webkit-center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     }
 
 #footer {
 	margin-bottom: 20px;
 	padding-top: 10px;
+    text-align: center;
 	}
 	
 	#footer li {

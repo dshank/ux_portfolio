@@ -79,10 +79,10 @@
     </div>
     <div class="clear"></div>
 
-    <div class="center tab">
+    <div class="tab">
         <a class='toggle_show'>
-            <img src="images/tab_more.png" class="more">
-            <img src="images/tab_less.png" class="less">
+            <img src="images/tab_more.png" class="more center">
+            <img src="images/tab_less.png" class="less center">
         </a>
     </div>
 

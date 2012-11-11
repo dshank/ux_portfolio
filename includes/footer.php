@@ -1,4 +1,4 @@
-<div id="footer" class="center">
+<div id="footer">
   <ul>
     <li><a href="index.php">About Dan</a></li>
     <li><a href="projects.php">Recent Projects</a></li>
