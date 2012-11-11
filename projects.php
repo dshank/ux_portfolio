@@ -27,32 +27,30 @@
     <?php include('includes/nav.php'); ?>
 
         <!-- Begin Content -->
-        <div id="content">
+        <br><br><br>
 
-            <?php include('includes/project_wyc.php'); ?>
-		
-		    <div class="spacer"></div>
+        <?php include('includes/project_wyc.php'); ?>
 
-
-            <?php include('includes/project_tool.php'); ?>
-
-            <div class="spacer"></div>
+        <div class="spacer"></div>
 
 
-            <?php include('includes/project_hands.php'); ?>
+        <?php include('includes/project_tool.php'); ?>
 
-            <div class="spacer"></div>
-
-
-            <?php include('includes/project_market.php'); ?>
-
-            <div class="spacer"></div>
+        <div class="spacer"></div>
 
 
-            <?php include('includes/project_wood.php'); ?>
+        <?php include('includes/project_hands.php'); ?>
+
+        <div class="spacer"></div>
 
 
-		</div>
+        <?php include('includes/project_market.php'); ?>
+
+        <div class="spacer"></div>
+
+
+        <?php include('includes/project_wood.php'); ?>
+
         <!-- End Content -->
 
     </div>
