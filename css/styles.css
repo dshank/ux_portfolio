@@ -28,6 +28,11 @@ a:hover {
     margin-left: 20px;
     max-height:37px;
 	}
+
+    #header li{
+        margin-left: 20px;
+        display: inline;
+    }
 	
 #picture {
 	float: right;

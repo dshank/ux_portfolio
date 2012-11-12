@@ -3,7 +3,7 @@
     <div class="grid_4 center">
         <h3>Washington Yacht Club</h3>
             <a href="https://sites.google.com/site/wycprojectfinalprototype/" target="_blank">
-                <img src="images/wyc/wyc_new.png" width=275 style="border: 1px solid #A0A0A0;"/>
+                <img src="images/wyc_thumb.png" width=275 onmouseover="this.src='images/wyc_thumb_over.png'" onmouseout="this.src='images/wyc_thumb.png'"/>
             </a>
     </div>
 

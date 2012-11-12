@@ -3,7 +3,7 @@
     <div class="grid_4 center">
         <h3>The Language of Hands</h3>
         <a href="http://students.washington.edu/dshank/Project_V3/Male.html" target="_blank">
-            <img src='images/hands_thumb.png' width=220>
+            <img src='images/hands_thumb.png' width=220 onmouseover="this.src='images/hands_thumb_over.png'" onmouseout="this.src='images/hands_thumb.png'">
         </a>
     </div>
 

@@ -18,7 +18,7 @@
         <!-- Begin Content -->
         <div id="statement">
             <div class="grid_12">
-                <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/">HCDE Program</a> at the University of Washington.</p><br>
+                <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p><br>
 
                 <h2>What is your background?</h2>
                 <p>
