@@ -1,7 +1,9 @@
 <div class="project_row">
 
+    <div class="title"><span>YourLocalMarkets.org</span></div>
+
     <div class="grid_4 center">
-        <h3>YourLocalMarkets.org</h3>
+        <!--<h3>YourLocalMarkets.org</h3>-->
         <div class="fancyDemo">
             <a rel="market" title="Clickable Prototype - This is the portal into the site where you find the nearest market" href="images/market/prototype_portal.png">
                 <img src='images/market_thumb.png' style="border: 1px solid #A0A0A0;" width=275>
@@ -92,10 +94,10 @@
     </div>
     <div class="clear"></div>
 
-    <div class="tab">
+    <div class="show center">
         <a class='toggle_show'>
-            <img src="images/tab_more.png" class="more center">
-            <img src="images/tab_less.png" class="less center">
+            <img src="images/show_more.png" class="more">
+            <img src="images/show_less.png" class="less">
         </a>
     </div>
 

@@ -1,7 +1,9 @@
 <div class="project_row">
 
+    <div class="title"><span>Tool Tutor</span></div>
+
     <div class="grid_4 center">
-        <h3>Tool Tutor</h3>
+        <!--<h3>Tool Tutor</h3>-->
         <div class="fancyDemo">
             <a rel="tool" title="Clickable Prototype - Tools can be identified by scanning a QR code taped to the tool" href="images/tool/tool_scan.png">
                 <img src='images/tool_thumb.png' width=180>
@@ -79,10 +81,10 @@
     </div>
     <div class="clear"></div>
 
-    <div class="tab">
+    <div class="show center">
         <a class='toggle_show'>
-            <img src="images/tab_more.png" class="more center">
-            <img src="images/tab_less.png" class="less center">
+            <img src="images/show_more.png" class="more">
+            <img src="images/show_less.png" class="less">
         </a>
     </div>
 

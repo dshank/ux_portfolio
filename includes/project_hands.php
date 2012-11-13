@@ -1,7 +1,9 @@
 <div class="project_row">
 
+    <div class="title"><span>The Language of Hands</span></div>
+
     <div class="grid_4 center">
-        <h3>The Language of Hands</h3>
+        <!--<h3>The Language of Hands</h3>-->
         <a href="http://students.washington.edu/dshank/Project_V3/Male.html" target="_blank">
             <img src='images/hands_thumb.png' width=220 onmouseover="this.src='images/hands_thumb_over.png'" onmouseout="this.src='images/hands_thumb.png'">
         </a>
@@ -47,10 +49,10 @@
 
     <div class="clear"></div>
 
-    <div class="tab">
+    <div class="show center">
         <a class='toggle_show'>
-            <img src="images/tab_more.png" class="more center">
-            <img src="images/tab_less.png" class="less center">
+            <img src="images/show_more.png" class="more">
+            <img src="images/show_less.png" class="less">
         </a>
     </div>
 

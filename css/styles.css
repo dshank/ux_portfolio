@@ -125,12 +125,24 @@ a:hover {
 .project_row {
 	position:relative;
 }
-    .project_row h3 {
-        font-size: 22px;
-        font-style: normal;
+    .project_row .title {
+        font-size: 15px;
+        font-weight: bold;
         color:#333333;
-        padding: 8px;
+        border-bottom: 1px solid #A0A0A0;
+        background-image: url('../images/tab.png');
+        background-repeat: no-repeat;
+        height: 25px;
+        width:100%;
+        margin-top:20px;
+        margin-bottom: 20px;
         }
+
+        .project_row .title span {
+            position: absolute;
+            margin-top:  5px;
+            margin-left: 60px;
+             }
 
     .project_row p {
         font-size:14px;
@@ -140,7 +152,6 @@ a:hover {
         }
 
     .project_row .description {
-        margin-top:40px;
         }
 
     .project_row li {
@@ -161,17 +172,13 @@ a:hover {
         border: 1px solid #A0A0A0;
         }
 
-    .project_row .more_info, .tab .less {
+    .project_row .more_info, .show .less {
         display: none;
         }
 
-    .project_row .tab{
-        height:22px;
+    .project_row .show{
+        margin-top: 20px;
         cursor:pointer;
-        }
-
-    .project_row .tab img{
-        width: 175px;
         }
 
 .spacer {

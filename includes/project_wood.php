@@ -1,7 +1,9 @@
 <div class="project_row">
 
+    <div class="title"><span>Wood Crafts</span></div>
+
     <div class="grid_4 center">
-        <h3>Wood Crafts</h3>
+        <!--<h3>Wood Crafts</h3>-->
         <div class="fancyDemo">
             <a rel="wood" title="Cribbage board - Made using Bloodwood and Ebony" href="images/wood/ebony_cribbage.png">
                 <img src='images/wood_thumb.png' width=300>
@@ -83,10 +85,10 @@
 
     <div class="clear"></div>
 
-    <div class="tab">
+    <div class="show center">
         <a class='toggle_show'>
-            <img src="images/tab_more.png" class="more center">
-            <img src="images/tab_less.png" class="less center">
+            <img src="images/show_more.png" class="more">
+            <img src="images/show_less.png" class="less">
         </a>
     </div>
 
