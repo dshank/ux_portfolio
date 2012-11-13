@@ -22,7 +22,7 @@
 
                 <h2>What is your background?</h2>
                 <p>
-                    Computers have always fascinated me and my interactions with them began mostly with attempts to upgrade them .  It continued with an education in computer science and led into work as a quality assurance engineer.
+                    Computers have always fascinated me and my interactions with them began mostly with attempts to upgrade them. It continued with an education in computer science and led into work as a quality assurance engineer.
                     It was there that I learned that it was the small stuff that caused the big problems, that it was the details
                     of a feature that most contributed to a user's success with a given task or action. I also learned the
                     importance of understanding the user, of empathizing with their motivations and the context of the tasks that they are trying to accomplish.
@@ -48,7 +48,7 @@
                     chair and a book that I can get lost in.
                 </p>
                 <br><p>
-                    Thanks for taking the time to visit and learn a little about me. Take the look at some of the <a href="projects.php">projects I've worked on</a> and
+                    Thanks for taking the time to visit and learn a little about me. Take a look at some of the <a href="projects.php">projects I've worked on</a> and
                     feel free to <a href="contact.php">contact me</a> to find out more.<br><br>Dan
                 </p>
 
