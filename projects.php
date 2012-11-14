@@ -27,7 +27,7 @@
     <?php include('includes/nav.php'); ?>
 
         <!-- Begin Content -->
-        <br><br><br>
+        <br><br><br><br>
 
         <?php include('includes/project_wyc.php'); ?>
 

@@ -24,33 +24,46 @@ a:hover {
     }
 	
 #header {
-	margin: 20px;
-    margin-left: 20px;
-    max-height:30px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    max-height:35px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
 	}
 
-    #header li{
-        margin-left: 20px;
-        display: inline;
+    #logo {
+        width: 170px;
+        margin-left: 10px;
     }
+
+    #header span{
+        position: relative;
+        top:-12px;
+    }
+
+    #header .contact{
+        margin-right: 10px;
+        margin-left: 20px;
+        width: 35px;
+    }
+
+    #picture {
+        float: right;
+        position: relative;
+        margin-top:-158px;
+        top: 127px;
+        right: 25px;
+        border: 1px solid #A0A0A0;
+        z-index: 1;
+        width: 13%;
+        min-width: 90px;
+        }
 	
-#picture {
-	float: right;
-	position: relative;
-	margin-top:-120px;
-	top: 127px;
-	right: 1%;
-	border: 1px solid #A0A0A0;
-	z-index: 1;
-	width: 14%;
-	min-width: 90px;
-	}
-	
-#logo {
-	float:left;
-	position:relative;
-    width: 170px;
-}
+
+
+
+
 
 .nav {
      position: relative;
@@ -104,7 +117,7 @@ a:hover {
 
 #statement {
     text-align: left;
-    margin-top:80px;
+    margin-top:70px;
     }
 
     #statement h2 {

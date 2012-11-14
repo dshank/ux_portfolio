@@ -20,7 +20,6 @@
 
             <div class="grid_9">
                 <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p>
-                <br>
             </div>
 
             <div class="clear"></div>
@@ -55,7 +54,7 @@
                 </p>
                 <p>
                     Thanks for taking the time to visit and learn a little about me. Take a look at some of the <a href="projects.php">projects I've worked on</a> and
-                    feel free to <a href="contact.php">contact me</a> to find out more.<br><br>Dan
+                    feel free to <a href="mailto:dan@danshank.com">email me</a> to find out more.<br><br>Dan
                 </p>
 
             </div>
