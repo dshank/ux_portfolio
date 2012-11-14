@@ -17,9 +17,15 @@
 
         <!-- Begin Content -->
         <div id="statement">
-            <div class="grid_12">
-                <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p><br>
 
+            <div class="grid_9">
+                <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p>
+                <br>
+            </div>
+
+            <div class="clear"></div>
+
+            <div class="grid_12">
                 <h2>What is your background?</h2>
                 <p>
                     Computers have always fascinated me and my interactions with them began mostly with attempts to upgrade them. It continued with an education in computer science and led into work as a quality assurance engineer.
@@ -47,7 +53,7 @@
                     into something that is both beautiful and practical. I also enjoy games in their various electronic and board varieties and love nothing more than a good comfy
                     chair and a book that I can get lost in.
                 </p>
-                <br><p>
+                <p>
                     Thanks for taking the time to visit and learn a little about me. Take a look at some of the <a href="projects.php">projects I've worked on</a> and
                     feel free to <a href="contact.php">contact me</a> to find out more.<br><br>Dan
                 </p>

@@ -18,7 +18,7 @@
         <!-- Begin Content -->
 
         <div class="grid_12 center">
-            <br><br><a href="resume.pdf" target="_blank">Click here for PDF</a>
+            <br><br><a href="resume.pdf" target="_blank" style="font-size: 16px;">Click here for PDF</a>
         </div>
 
         <div class="clear"></div><br>
