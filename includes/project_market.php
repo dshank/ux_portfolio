@@ -36,8 +36,8 @@
             <a rel="personas" title="Personas - Cheyenne, our primary user. The one who likes food fresh" href="images/market/persona_cheyenne.png">
                 <img src="images/market/persona_thumb.png" class="thumb"/>
             </a>
-            <a rel="personas" title="Personas - Bridget, the social shopper. Just wants to look around" href="images/market/persona_bridget.png">
-            <a rel="personas" title="Personas - Victor, tech savvy occasional visitor. More curious than anything" href="images/market/persona_victor.png">
+            <a rel="personas" title="Personas - Bridget, the social shopper. Just wants to look around" href="images/market/persona_bridget.png"></a>
+            <a rel="personas" title="Personas - Victor, tech savvy occasional visitor. More curious than anything" href="images/market/persona_victor.png"></a>
 
         </div>
 

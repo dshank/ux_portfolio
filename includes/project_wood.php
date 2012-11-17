@@ -6,7 +6,7 @@
         <!--<h3>Wood Crafts</h3>-->
         <div class="fancyDemo">
             <a rel="wood" title="Cribbage board - Made using Bloodwood and Ebony" href="images/wood/ebony_cribbage.png">
-                <img src='images/wood_thumb.png' width=300>
+                <img src='images/wood_thumb.png' style="border: 1px solid #A0A0A0;" width=275>
             </a>
         </div>
     </div>

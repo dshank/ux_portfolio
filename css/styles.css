@@ -138,6 +138,8 @@ a:hover {
 
 .project_row {
 	position:relative;
+    background-image: url('../images/project_back.png');
+    background-repeat: repeat-x;
 }
     .project_row .title {
         font-size: 15px;
