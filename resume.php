@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Portfolio</title>
+<title>Dan Shank UX Portfolio - Resume</title>
 
 <head>
     <?php $nav = 'resume'?>
@@ -17,14 +17,16 @@
 
         <!-- Begin Content -->
 
-        <div class="grid_12 center">
-            <br><br><a href="resume.pdf" target="_blank" style="font-size: 16px;">Click here for PDF</a>
-        </div>
+        <div id="resume">
+            <div class="grid_12 center">
+                <br><br><a href="resume.pdf" target="_blank" style="font-size: 16px;">Click here for PDF</a>
+            </div>
 
-        <div class="clear"></div><br>
+            <div class="clear"></div><br>
 
-        <div class="grid_12">
-            <center><object data="resume.pdf" type="application/pdf" width="89%" height="1070px"></object></center>
+            <div class="grid_12 center">
+                <object data="resume.pdf" type="application/pdf" width="89%" height="1070px"></object>
+            </div>
         </div>
 
         <!-- End Content -->

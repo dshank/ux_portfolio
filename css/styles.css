@@ -51,18 +51,12 @@ a:hover {
     #picture {
         float: right;
         position: relative;
-        margin-top:-158px;
-        top: 127px;
-        right: 25px;
         border: 1px solid #A0A0A0;
         z-index: 1;
-        width: 13%;
-        min-width: 90px;
+        width: 15%;
+        margin: 30px;
+        margin-right:20px;
         }
-	
-
-
-
 
 
 .nav {
@@ -117,7 +111,18 @@ a:hover {
 
 #statement {
     text-align: left;
+    background-image: url('../images/statement_back.png');
+    background-repeat: repeat-x;
+    border:1px solid #A0A0A0;
+    width:92%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top:70px;
+    margin-bottom:35px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+
     }
 
     #statement h2 {
@@ -196,7 +201,6 @@ a:hover {
         }
 
 .spacer {
-    /*margin-top:20px;*/
     margin-left:1%;
     padding-bottom:20px;
     border-top:1px solid #A0A0A0;
@@ -204,11 +208,9 @@ a:hover {
     width:97%;
     }
 	
-/*#resume {
-	position:relative;
-	margin-top:40px;
-	width:75px;
-}*/
+#resume {
+
+}
 
 
 

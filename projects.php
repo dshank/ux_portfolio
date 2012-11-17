@@ -2,7 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" xmlns="http://www.w3.org/1999/html"
       xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"/>
 
-<title>Portfolio</title>
+<title>Dan Shank UX Portfolio - Recent Projects</title>
 
 <head>
     <?php $nav = 'projects'?>

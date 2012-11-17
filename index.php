@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Portfolio</title>
+<title>Dan Shank UX Portfolio - About Dan</title>
 
 <head>
     <?php $nav = 'about'?>
@@ -18,14 +18,11 @@
         <!-- Begin Content -->
         <div id="statement">
 
-            <div class="grid_9">
-                <p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p>
-            </div>
+            <div class="grid_11">
+                <img id="picture" src="images/face.jpg" alt=""/>
+                <br><br><p>Hi, I'm Dan Shank, a Masters student in the <a href="http://www.hcde.washington.edu/" target="_blank">HCDE Program</a> at the University of Washington.</p>
 
-            <div class="clear"></div>
-
-            <div class="grid_12">
-                <h2>What is your background?</h2>
+                <br><h2>What is your background?</h2>
                 <p>
                     Computers have always fascinated me and my interactions with them began mostly with attempts to upgrade them. It continued with an education in computer science and led into work as a quality assurance engineer.
                     It was there that I learned that it was the small stuff that caused the big problems, that it was the details

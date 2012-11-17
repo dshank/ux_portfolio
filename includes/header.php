@@ -11,11 +11,9 @@
 
         <a href="tel:8053204495"><img src="images/phone.png" class="contact"><span>805-320-4495</span></a>
 
-        <a href="http://www.linkedin.com/in/danielshank" target="_blank"><img src="images/linkedin.png" class="contact"></a>
+        <a href="http://www.linkedin.com/in/danielshank" target="_blank"><img src="images/linkedin.png" class="contact"><span>LinkedIn Profile</span></a>
 
     </div>
-
-    <?php if ($nav == 'about') { print '<img id="picture" src="images/face.jpg" alt="Me in montana"/>'; } ?>
 
 	<div class="clear"></div>
 
