@@ -5,7 +5,7 @@
         <a href="index.php"><img id="logo" src="images/logo.png"></a>
     </div>
 
-    <div class="grid_7">
+    <div class="grid_8">
 
         <a href="mailto:dan@danshank.com"><img src="images/email.png" class="contact"><span>dan@danshank.com </span></a>
 

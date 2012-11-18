@@ -13,12 +13,12 @@
 
     <div class="grid_8 description">
         <p>
-            An individual class project to develop a prototype application for use by a 'captive audience'. Tool Tutor is an iPad application that
-            allows the user to scan a tool and then learn information about the general uses for the tool, component identification, safety procedures,
-            and operating procedures for tool use or setup.
+            An individual class project to develop an interactive prototype for use by a 'captive audience'. Tool Tutor is an iPad application that
+            allows the user to scan a tool and then learn information about its general use, component identification, safety procedures,
+            and setup or operating procedures.
         </p>
         <br><p><b>Goals: </b>To teach students about the vocabulary, purpose, and proper use of the power tools in a shop using an engaging medium
-            that allows the students to interact with the present tool</p>
+            that allows the students to interact with the physical tool</p>
         <p><b>Technologies Used: </b>Photoshop, OmniGraffle</p>
         <p><b>Challenges: </b>Creating multiple varieties of interaction that enhanced of the experience with the physically present tool</p>
 

@@ -14,7 +14,7 @@
         <br></b><p><b>Goals: </b>To explore the ways we embed meaning in a person's choice of rings, nails, and tattoos as decoration</p>
         <p><b>Technologies Used: </b>Photoshop, Axure</p>
         <p><b>Challenges: </b>Limiting the scope of the project to just nails, rings, and tattoos for different hand types.  Other possible directions included
-                scars and wrist decorations such as watches and bracelets.  </p>
+                scars, calluses, and wrist decorations such as watches and bracelets.  </p>
     </div>
 
     <div class="clear"></div>
@@ -39,7 +39,7 @@
         <div class="grid_4">
             <p><a href="http://students.washington.edu/dshank/Project_V3/Male.html" target="_blank"><b>Final Version</b></a></p>
             <ul>
-                <li>Changed interface to use a combination of text and images</li>
+                <li>Changed controls to use a combination of text and images</li>
                 <li>Added additional decoration permutations</li>
                 <li>Added 'random' and 'reset' features to improve interactivity</li>
             </ul>

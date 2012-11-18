@@ -18,7 +18,7 @@
             </p>
             <br>
             <p><b>Goals: </b>Encourage attendance at local farmers markets and personal engagement with regular vendors</p>
-            <p><b>Personal Role: </b>Involved in all aspects of project (including research and prototyping) except visual design</p>
+            <p><b>Personal Role: </b>Interviewer, Research Analyst, Prototype Developer, Usability Tester</p>
             <p><b>Technologies Used: </b>Photoshop, Powerpoint (used for prototype)</p>
     </div>
 
@@ -30,6 +30,10 @@
             <a rel="survey" title="Survey - We used a survey tool provided by UW. We received 40 responses" href="images/market/survey.png">
                 <img src="images/market/survey.png" class="thumb"/>
             </a>
+            <a rel="survey" title="Semi-structured Interview - We decided to interview various vendors and attendees at the market" href="images/market/interview_questions.png"></a>
+            <a rel="survey" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.jpg"></a>
+            <a rel="survey" title="One of the booths at the market" href="images/market/booth.jpg"></a>
+            <a rel="survey" title="Interview Results Summary - Here are some of the results from the interviews" href="images/market/interview_summary.png"></a>
         </div>
 
         <div class="grid_3 fancyDemo">
@@ -60,26 +64,29 @@
         </div>
         <div class="clear"></div><br/>
 
-        <div class="grid_3">
+        <div class="grid_3 fancyDemo">
             <p><b>Initial Research</b></p>
             <ul>
                 <li>Sent out a survey asking questions related to motivations of visiting farmers markets</li>
-                <li>Conducted interviews with attendees and vendors of the markets.</li>
+                <li>Visited a<a rel="market_local" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.jpg">
+                local market</a> and conducted <a rel="market_interview" title="Semi-structured Interview - We decided to interview various vendors and attendees at the market" href="images/market/interview_questions.png">
+                interviews</a> with attendees and vendors of the markets.</li>
             </ul>
+            <a rel="market_local" title="One of the booths at the market" href="images/market/booth.jpg"></a>
         </div>
 
         <div class="grid_3">
             <p><b>Personas</b></p>
             <ul>
-                <li>Developed personas based on motivation/behavior patterns found in analysis of the surveys and interviews</li>
+                <li>Developed personas based on motivation/behavior patterns found in <div class="fancyDemo"><a rel="market_analysis" title="Interview Results Summary - Here are some of the results from the interviews" href="images/market/interview_summary.png">analysis</a></div> of the surveys and interviews</li>
             </ul>
         </div>
 
-        <div class="grid_3">
+        <div class="grid_3 fancyDemo">
             <p><b>Wireframe and Site Map</b></p>
             <ul>
                 <li>Sketched out some rough wireframes for the site layout prior to prototyping</li>
-                <li>Developed a site map to help understand information architecture and scope</li>
+                <li>Developed a <a rel="market_site_map" title="Preliminary site map to use when developing prototype and defining scope" href="images/market/site_map.png">site map</a> to help understand information architecture and scope</li>
             </ul>
         </div>
 
