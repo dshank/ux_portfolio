@@ -31,8 +31,8 @@
                 <img src="images/market/survey.png" class="thumb"/>
             </a>
             <a rel="survey" title="Semi-structured Interview - We decided to interview various vendors and attendees at the market" href="images/market/interview_questions.png"></a>
-            <a rel="survey" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.jpg"></a>
-            <a rel="survey" title="One of the booths at the market" href="images/market/booth.jpg"></a>
+            <a rel="survey" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.png"></a>
+            <a rel="survey" title="One of the booths at the market" href="images/market/booth.png"></a>
             <a rel="survey" title="Interview Results Summary - Here are some of the results from the interviews" href="images/market/interview_summary.png"></a>
         </div>
 
@@ -68,11 +68,11 @@
             <p><b>Initial Research</b></p>
             <ul>
                 <li>Sent out a survey asking questions related to motivations of visiting farmers markets</li>
-                <li>Visited a<a rel="market_local" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.jpg">
+                <li>Visited a<a rel="market_local" title="A handful of us attended the Ballard Market to conduct the interviews" href="images/market/ballard_market.png">
                 local market</a> and conducted <a rel="market_interview" title="Semi-structured Interview - We decided to interview various vendors and attendees at the market" href="images/market/interview_questions.png">
                 interviews</a> with attendees and vendors of the markets.</li>
             </ul>
-            <a rel="market_local" title="One of the booths at the market" href="images/market/booth.jpg"></a>
+            <a rel="market_local" title="One of the booths at the market" href="images/market/booth.png"></a>
         </div>
 
         <div class="grid_3">
