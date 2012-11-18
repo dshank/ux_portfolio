@@ -103,8 +103,8 @@
 
     <div class="show center">
         <a class='toggle_show'>
-            <img src="images/show_more.png" class="more">
-            <img src="images/show_less.png" class="less">
+            <img src="images/show_more.png" class="more" onmouseup="this.src='images/show_more.png'" onmousedown="this.src='images/show_more_down.png'">
+            <img src="images/show_less.png" class="less" onmouseup="this.src='images/show_less.png'" onmousedown="this.src='images/show_less_down.png'">
         </a>
     </div>
 

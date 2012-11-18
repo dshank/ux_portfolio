@@ -197,8 +197,11 @@ a:hover {
 
     .project_row .show{
         margin-top: 20px;
-        cursor:pointer;
         }
+
+    .project_row a{
+        cursor:pointer;
+    }
 
     .project_row div.fancyDemo{
         display: inline;
