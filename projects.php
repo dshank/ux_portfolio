@@ -31,25 +31,14 @@
 
         <?php include('includes/project_wyc.php'); ?>
 
-        <!--<div class="spacer"></div>-->
 
-
-        <?php include('includes/project_tool.php'); ?>
-
-        <!--<div class="spacer"></div>-->
+        <?php include('includes/project_market.php'); ?>
 
 
         <?php include('includes/project_hands.php'); ?>
 
-        <!--<div class="spacer"></div>-->
 
-
-        <?php include('includes/project_market.php'); ?>
-
-        <!--<div class="spacer"></div>-->
-
-
-        <?php include('includes/project_wood.php'); ?>
+        <?php include('includes/project_tool.php'); ?>
 
         <!-- End Content -->
         <br><br>

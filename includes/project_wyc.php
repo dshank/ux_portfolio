@@ -4,7 +4,7 @@
 
     <div class="grid_4 center">
         <!--<h3>Washington Yacht Club</h3>-->
-            <a href="https://sites.google.com/site/wycprojectfinalprototype/" target="_blank">
+            <a href="http://www.washingtonyachtclub.org" target="_blank">
                 <img src="images/wyc_thumb.png" width=275 onmouseover="this.src='images/wyc_thumb_over.png'" onmouseout="this.src='images/wyc_thumb.png'">
             </a>
     </div>
@@ -12,7 +12,7 @@
     <div class="grid_8 description">
         <p>
             A class group project to redesign an existing site using user-centered principles.  The site chosen by our group was the Washington Yacht Club due
-            to my personal involvement in the club and the messy state of their <a href="https://sites.google.com/a/washingtonyachtclub.org/home/" target="_blank">previous site</a>.
+            to my personal involvement in the club and the messy state of their <a href="http://old.washingtonyachtclub.org" target="_blank">previous site</a>.
             The project was completed over the course of 9 weeks with the cooperation of the club officers as stakeholders.
         </p>
         <br>

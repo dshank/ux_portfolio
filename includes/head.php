@@ -2,6 +2,7 @@
 <link href="css/transition.min.css" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
 <link rel="stylesheet" href="css/960.css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
 <!-- End Styles -->
 
 <!-- Begin Scripts -->
